@@ -37,6 +37,13 @@ while len(S()) != 0:
     
     if w == t - 1:
         print(d[w])
+        path = []
+        i = t-1
+        while i != 0:
+            i = previous[i]
+            path.append(i)
+        path.reverse()
+        print("path : ", path)
         #探索終了
         break
 
