@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-Thank you for visiting this page, which is introduce my project.
+Thank you for visiting this page, which introduces my project.
 
 ### Markdown
 
